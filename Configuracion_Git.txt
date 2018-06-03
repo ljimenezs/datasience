@@ -1,0 +1,3 @@
+https://github.com/ljimenezs/datasience.git
+git config --global user.name "ljimenezs"
+git config --global user.email "luis.jimenez.solis@gmail.com"
